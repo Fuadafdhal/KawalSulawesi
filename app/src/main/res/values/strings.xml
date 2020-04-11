@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KawalSulawesi</string>
+    <string name="nullJumlah">0</string>
+    <string name="orang">Orang</string>
+    <string name="title_kasus_provinsi">Jumlah Kasus di Sulawesi Tenggara</string>
+    <string name="txt_positif">Positif</string>
+    <string name="txt_sembuh">Sembuh</string>
+    <string name="txt_meninggal">Meninggal</string>
+    <string name="logo_apps">logo apps</string>
+    <string name="example_app_version">App Version 1.0</string>
+    <string name="desc_icon_donktor">Icon Donktor</string>
+    <string name="info_the_apps">Kawal informasi seputar COVID-19 secara tepat dan akurat.</string>
+    <string name="info_the_apps2">Aplikasi ini merupakan sumber informasi inisiatif sukarela warganet Indonesia (Sulawesi Tenggara ) pro-data.</string>
+    <string name="lbl_jumlah_kasus_di_indonesia">Jumlah Kasus di Indonesia Saat Ini</string>
+    <string name="desc_icon_virus">icon virus</string>
+    <string name="txt_orang">Orang</string>
+    <string name="desc_info_apps">icon info apps</string>
+    <string name="desc_icon_sehat">icon sehat</string>
+    <string name="desc_icon_meninggal">icon meninggal</string>
+    <string name="desc_icon_location">icon location</string>
+    <string name="example_location">Sulawesi Tenggara</string>
+    <string name="desc_icon_expanded_menu">icon expanded menu</string>
+    <string name="info_colaborasi">Jika ingin kolaborasi mengembakan aplikasi sini dapat menghubungi email Berikut :</string>
+    <string name="my_email">fuad.afdal.fa@gmail.com</string>
+    <string name="announcement_apps">*Aplikasi masih dalam tahap pengembangan. Error atau Bug Aplikasi bisa di report pada email yeng tertera di atas</string>
+    <string name="desc_image_splasscreen">Image SplasScreen</string>
+    <string name="text_SplasScreen_sulawesi">Sulawesi</string>
+
+</resources>
